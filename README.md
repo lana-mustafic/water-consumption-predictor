@@ -24,6 +24,7 @@ This project was built as part of an initiative to combine **data science** with
 
 ## 🗂️ Project Structure
 
+```
 water-consumption-predictor/
 ├── backend/
 │ ├── app.py # Flask API for prediction
@@ -38,6 +39,7 @@ water-consumption-predictor/
 ├── requirements.txt
 └── README.md # You are here
 
+```
 
 ---
 
@@ -59,5 +61,5 @@ The dataset contains the following columns:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/water-consumption-predictor.git
+   git clone https://github.com/lana-mustafic/water-consumption-predictor.git
    cd water-consumption-predictor
