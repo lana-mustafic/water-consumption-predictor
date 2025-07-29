@@ -28,7 +28,7 @@ water-consumption-predictor/
 │   ├── models/             # ML artifacts
 │   └── data_water_consumption.xlsx
 ├── frontend/
-│   └── gui_app.py          # Tkinter GUI
+│   └── frontend.py          # Tkinter GUI
 └── requirements.txt
 ```
 
