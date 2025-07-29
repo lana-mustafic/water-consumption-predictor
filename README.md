@@ -49,7 +49,7 @@ python app.py
 2. **Run GUI**:
 ```bash
 cd ../frontend
-python gui_app.py
+python frontend.py
 ```
 
 ## 🤝 How to Contribute
